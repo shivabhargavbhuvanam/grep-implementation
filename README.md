@@ -25,7 +25,10 @@ The script efficiently reads and processes text files, providing options to disp
 
 **Prerequisites**
 
-```python installed```
+```
+python installed
+```
+
 # Usage
 
 The usage is similar to how one might use the grep command.
